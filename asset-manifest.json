@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/formTestTask/static/css/main.a0f0ba2e.chunk.css",
+    "main.js": "/formTestTask/static/js/main.7de821ac.chunk.js",
+    "main.js.map": "/formTestTask/static/js/main.7de821ac.chunk.js.map",
+    "runtime-main.js": "/formTestTask/static/js/runtime-main.57694847.js",
+    "runtime-main.js.map": "/formTestTask/static/js/runtime-main.57694847.js.map",
+    "static/css/2.a1b7a17e.chunk.css": "/formTestTask/static/css/2.a1b7a17e.chunk.css",
+    "static/js/2.70bf6dfd.chunk.js": "/formTestTask/static/js/2.70bf6dfd.chunk.js",
+    "static/js/2.70bf6dfd.chunk.js.map": "/formTestTask/static/js/2.70bf6dfd.chunk.js.map",
+    "index.html": "/formTestTask/index.html",
+    "precache-manifest.8f364f2e07c76679a50f59de9a920cb4.js": "/formTestTask/precache-manifest.8f364f2e07c76679a50f59de9a920cb4.js",
+    "service-worker.js": "/formTestTask/service-worker.js",
+    "static/css/2.a1b7a17e.chunk.css.map": "/formTestTask/static/css/2.a1b7a17e.chunk.css.map",
+    "static/css/main.a0f0ba2e.chunk.css.map": "/formTestTask/static/css/main.a0f0ba2e.chunk.css.map",
+    "static/js/2.70bf6dfd.chunk.js.LICENSE.txt": "/formTestTask/static/js/2.70bf6dfd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/formTestTask/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57694847.js",
+    "static/css/2.a1b7a17e.chunk.css",
+    "static/js/2.70bf6dfd.chunk.js",
+    "static/css/main.a0f0ba2e.chunk.css",
+    "static/js/main.7de821ac.chunk.js"
+  ]
+}
